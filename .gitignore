@@ -1,17 +1,2 @@
 # Ignore Python virtual environment
 venv/
-
-# Ignore VSCode settings
-.vscode/
-
-# Ignore AWS Elastic Beanstalk configurations
-.ebextensions/
-
-# Ignore Python cache files
-__pycache__/
-
-# Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
-
-
-
